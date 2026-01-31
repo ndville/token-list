@@ -7,3 +7,15 @@
     "logoURI": "https://raw.githubusercontent.com/ndville/token-metadata/refs/heads/main/logo.png",
     "tags": ["token", "solana"]
 }
+
+
+{
+    "chainId": 101,
+    "address": "3xKtUdsGqtDcwGGUjGkrXcj9pguihWbSNVCmgwi8ahbM",
+    "symbol": "HLSS",
+    "name": "WALLACES",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/ndville/token-metadata/refs/heads/main/logo.png",
+    "tags": ["token", "solana"]
+}
+
